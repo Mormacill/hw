@@ -23,6 +23,9 @@ install -m 755 hw %{buildroot}/usr/bin/hw
 /usr/bin/hw
 
 %changelog
+* Thu May 01 2025 Mormacill <31103546+Mormacill@users.noreply.github.com> - 1.3-2
+- test
+
 * Thu May 01 2025 Mormacill <31103546+Mormacill@users.noreply.github.com> - 1.3-1
 - Update hw.spec
 
