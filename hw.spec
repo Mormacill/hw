@@ -1,5 +1,5 @@
 Name:       hw
-Version:    1.2
+Version:    1.3
 Release:    %autorelease
 Summary:    Most simple RPM package
 License:    FIXME
