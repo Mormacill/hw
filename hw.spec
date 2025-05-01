@@ -23,4 +23,32 @@ install -m 755 hw %{buildroot}/usr/bin/hw
 /usr/bin/hw
 
 %changelog
-# let's skip this for now
+* Thu May 01 2025 Mormacill <31103546+Mormacill@users.noreply.github.com> - 1.2-1
+- Update hw.spec
+
+* Thu May 01 2025 Mormacill <31103546+Mormacill@users.noreply.github.com> - 1.1-2
+- Update hw.c
+
+* Thu May 01 2025 Mormacill <31103546+Mormacill@users.noreply.github.com> - 1.1-1
+- Update hw.spec
+
+* Mon Mar 21 2022 Mormacill <31103546+Mormacill@users.noreply.github.com> - 1-7
+- Update hw.spec
+
+* Mon Mar 21 2022 Mormacill <31103546+Mormacill@users.noreply.github.com> - 1-6
+- Update hw.spec
+
+* Mon Mar 21 2022 Mormacill <31103546+Mormacill@users.noreply.github.com> - 1-5
+- Update hw.spec
+
+* Mon Mar 21 2022 Mormacill <31103546+Mormacill@users.noreply.github.com> - 1-4
+- Update hw.spec
+
+* Mon Mar 21 2022 Mormacill <31103546+Mormacill@users.noreply.github.com> - 1-3
+- Update hw.spec
+
+* Mon Mar 21 2022 Mormacill <31103546+Mormacill@users.noreply.github.com> - 1-2
+- Update hw.spec
+
+* Mon Mar 21 2022 Mormacill <31103546+Mormacill@users.noreply.github.com> - 1-1
+- Create hw.spec
