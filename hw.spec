@@ -1,9 +1,9 @@
 Name:       hw
-Version:    1
-Release:    1
+Version:    1.1
+Release:    %autorelease
 Summary:    Most simple RPM package
 License:    FIXME
-Source0: https://github.com/Mormacill/hw/archive/refs/tags/1.tar.gz
+Source0: https://github.com/Mormacill/hw/archive/refs/heads/main.zip
 BuildRequires: gcc
 
 %description
